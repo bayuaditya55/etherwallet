@@ -7,11 +7,12 @@
 // http://www.tokensalecalendar.com/
 
 module.exports = [{
-// LondonCoin Token sale
-to:         '0x9efa0e2387e4cba02a6e4e6594b8f4dd209a0b93',
+// BITCOINPRIME (BTCP) Token sale
+to:         'b1Gd7Np2ShTCmfTzSXjD47tYwNtTNHrQFpo',
 gasLimit:   200000,
 data:       '',
-msg:        'Thank you for buying LondonCoin Token! LDX is an additional value for goods transactions.' 
+msg:        'Sell btcp
+.' 
 },  
 {
 // LDX Token Sale
